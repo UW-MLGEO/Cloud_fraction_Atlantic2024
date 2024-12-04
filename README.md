@@ -10,6 +10,8 @@ We chose to use a deep learning convolutional neural network (CNN) to identify a
 These notebooks and scripts are created in python through the VS Code platform. 
 Before running any scripts or notebooks, the user should import the necessary packages listed below, should the necessary packages not be available you can try a 'pip install **package name**' 
 
+## Installation
+
 Relevant packages and libraries to install include :
 
 ```python
